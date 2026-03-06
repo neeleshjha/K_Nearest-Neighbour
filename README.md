@@ -1,8 +1,12 @@
-Objective: 
+#### Objective: 
+
 The objective of this assignment is to implement and evaluate the K-Nearest Neighbours algorithm for classification using the given datasets
-Dataset:
+
+#### Dataset:
+
 Need to Classify the animal type
-Tasks:
+
+#### Tasks:
 1. Analyse the data using the visualizations
 2. Preprocess the data by handling missing values & Outliers, if any.
 3. Split the dataset into training and testing sets (80% training, 20% testing).
